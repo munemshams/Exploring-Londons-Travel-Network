@@ -6,21 +6,21 @@ The dataset, stored in a Snowflake database (TFL.JOURNEYS), contains monthly jou
 
 **Key Questions Answered**
 
-1️⃣ Which transport modes have the highest total journey volumes?
+1️. Which transport modes have the highest total journey volumes?
 
 A full aggregation reveals London’s most frequently used services.
 
 Output:
 most_popular_transport_types.csv
 
-2️⃣ When was the Emirates Airline cable car most popular?
+2️. When was the Emirates Airline cable car most popular?
 
 By ranking monthly ridership for this unique transport service, we identify its top-performing months.
 
 Output:
 emirates_airline_popularity.csv
 
-3️⃣ Which years recorded the lowest Underground & DLR usage?
+3️. Which years recorded the lowest Underground & DLR usage?
 
 Yearly totals help uncover dips in the network — whether influenced by major events, disruptions, or long-term trends.
 
