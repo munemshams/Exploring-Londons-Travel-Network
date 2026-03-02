@@ -1,7 +1,7 @@
 **Exploring London’s Public Transport Usage with Snowflake SQL**
 
 London is one of the world’s busiest and most diverse metropolitan regions, home to millions of residents and commuters who rely on an extensive public transportation network. To understand how Londoners travel across the city, this project analyzes long-term journey data from Transport for London (TfL) using Snowflake SQL as the core analytics engine.
-This project breaks down how Londoners use different transport services over time, with Snowflake SQL powering all queries. By analyzing total usage, popularity trends, and yearly fluctuations, the project provides clear insights into the city’s transportation dynamics — from buses and trams to the iconic Underground and Emirates Airline cable car.
+This project breaks down how Londoners use different transport services over time, with Snowflake SQL powering all queries. By analyzing total usage, popularity trends, and yearly fluctuations, the project provides clear insights into the city’s transportation dynamics, from buses and trams to the iconic Underground and Emirates Airline cable car.
 The dataset, stored in a Snowflake database (TFL.JOURNEYS), contains monthly journey volumes across multiple transport modes and provides a clear look into usage patterns, peak periods, and long-term ridership changes.
 
 **Key Questions Answered**
